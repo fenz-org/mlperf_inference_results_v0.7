@@ -1,4 +1,0 @@
-Verifying performance.
-reference score = 360
-test score = 360
-TEST PASS
